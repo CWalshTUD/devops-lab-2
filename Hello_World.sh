@@ -4,7 +4,7 @@
 # Author: Christopher Walsh
 # Date: 29/9/23
 
-echo "Hello World"
+echo "Welcome"
 
 for ((i=0;i<10;i+=))
 do
