@@ -4,7 +4,7 @@
 # Author: Christopher Walsh
 # Date: 29/9/23
 
-echo "Welcome"
+echo "This is another string"
 
 for ((i=0;i<10;i+=))
 do
